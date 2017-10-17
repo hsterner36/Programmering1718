@@ -1,5 +1,5 @@
 import random
-
+#bubble sort
 def generer_tal():
     tal = [random.randint(0, 100) for c in range(10)]
     return tal
